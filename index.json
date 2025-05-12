@@ -1204,6 +1204,26 @@
     ]
   },
   {
+    "name": "Aniyomi: AniWatchtv",
+    "pkg": "eu.kanade.tachiyomi.animeextension.en.aniwatch",
+    "apk": "aniyomi-en.aniwatch-v14.7.apk",
+    "lang": "en",
+    "code": 7,
+    "version": "14.7",
+    "nsfw": 0,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "AniWatchtv",
+        "lang": "en",
+        "id": "8051984946387208343",
+        "baseUrl": "https://aniwatchtv.to",
+        "versionId": 1
+      }
+    ]
+  },
+  {
     "name": "Aniyomi: AsiaFlix",
     "pkg": "eu.kanade.tachiyomi.animeextension.en.asiaflix",
     "apk": "aniyomi-en.asiaflix-v14.18.apk",
